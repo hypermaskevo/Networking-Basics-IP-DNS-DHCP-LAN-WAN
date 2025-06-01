@@ -4,7 +4,8 @@
 Understand the core networking concepts: IP addressing, DHCP, DNS, LAN, WAN.  
 Build a simple local network in Cisco Packet Tracer using dynamic IP addressing.
 
----
+![image](https://github.com/user-attachments/assets/c71a0dd5-9098-4189-83e8-e539cd19f77c)
+
 
 ## 📘 Theory
 
